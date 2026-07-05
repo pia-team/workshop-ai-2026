@@ -17,6 +17,7 @@ Liste paylaşım sırasına göredir — ilk paylaşan ilk sıradadır.
 | 1 | [Nida Duman](https://github.com/Nidadmn) | [smart-agent](https://github.com/Nidadmn/smart-agent) | Python, Ollama | Framework kullanmadan sıfırdan yazılmış minimal otonom agent: planlama, tool kullanımı ve execution loop. |
 | 2 | [Şeyma Nalbant](https://github.com/nalbantseymaa) | [telco-ai-agent](https://github.com/nalbantseymaa/telco-ai-agent) ・ [video](https://drive.google.com/file/d/1q6h2KgiJwF3XZUNW_rr-UAx8TMTvTQDb/view) | Python, LangChain, Groq | LibreDB/PostgreSQL üzerindeki telekom telemetri verisini analiz eden ve müşteri kaybını (churn) azaltmaya yönelik aksiyon üreten cognitive agent. |
 | 3 | [Tuba Çınar](https://github.com/tubacayir) | [research-data-collector-agent](https://github.com/tubacayir/research-data-collector-agent) | Python | Verilen araştırma konusu için otomatik veri toplayan araştırma asistanı agent'ı. |
+| 4 | [Beyza Nur Tiril](https://github.com/beyzanurtiril) | [makeup-agent](https://github.com/beyzanurtiril/makeup-agent) | Python, Gemini API, Tavily | An agent that recommends cool-toned makeup products by category (lipstick, eyeshadow, concealer, etc.) using real-time web search. |
 
 ## Kendini Ekle
 
