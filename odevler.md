@@ -28,6 +28,7 @@ Liste paylaşım sırasına göredir — ilk paylaşan ilk sıradadır.
 | 12 | [Doğa Güneş](https://github.com/doagunes) | [csv-analyst-agent](https://github.com/doagunes/csv-analyst-agent) | Python, Ollama | CSV verisiyle doğal dilde konuşan, tamamen yerel (Ollama + llama3.1) çalışan analiz agent'ı. |
 | 13 | [Berna Talay](https://github.com/bernatalayy) | [email-classification-agent](https://github.com/bernatalayy/email-classification-agent) | Python, Ollama | Müşteri e-postalarını analiz eden, özetleyen, ticket oluşturan, öneri yanıtları üreten ve ticket kayıtlarını Excel’de saklayan AI agent. |
 | 14 | [Seden Özcan](https://github.com/sednozcan) | [ResearchPilot](https://github.com/sednozcan/research-pilot) | Python, FastAPI, React, Gemini API | Kullanıcı sorusunu analiz ederek araştırma planı oluşturan ve Gemini API ile yapılandırılmış araştırma raporu üreten AI agent. |
+| 15 | [Gamze Çakan](https://github.com/gamzecakan) | [study-planner-agent](https://github.com/gamzecakan/study-planner-agent) | Python, LangChain, Groq | An AI study planner that collects user information, asks for missing details, and generates personalized study plans using a Large Language Model. |
 
 ## Kendini Ekle
 
