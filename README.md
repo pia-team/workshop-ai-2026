@@ -28,9 +28,9 @@ raporu değil, kişiye özel birer öğrenme yol haritası.
 
 | # | Katılımcı | Proje | Stack | Learning Path |
 |---|-----------|-------|-------|---------------|
-| 1 | [Nida Duman](https://github.com/Nidadmn) | [smart-agent](https://github.com/Nidadmn/smart-agent) | Python, Ollama | _(issue linki eklenecek)_ |
-| 2 | [Şeyma Nalbant](https://github.com/nalbantseymaa) | [telco-ai-agent](https://github.com/nalbantseymaa/telco-ai-agent) | Python, LangChain, Groq | _(issue linki eklenecek)_ |
-| 3 | [Tuba Çınar](https://github.com/tubacayir) | [research-data-collector-agent](https://github.com/tubacayir/research-data-collector-agent) | Python | _(issue linki eklenecek)_ |
+| 1 | [Nida Duman](https://github.com/Nidadmn) | [smart-agent](https://github.com/Nidadmn/smart-agent) | Python, Ollama | [Growth Roadmap](https://github.com/Nidadmn/smart-agent/blob/main/docs/learning-handbook.md)|
+| 2 | [Şeyma Nalbant](https://github.com/nalbantseymaa) | [telco-ai-agent](https://github.com/nalbantseymaa/telco-ai-agent) | Python, LangChain, Groq | [Growth Roadmap](https://github.com/nalbantseymaa/telco-ai-agent/issues/2)|
+| 3 | [Tuba Çınar](https://github.com/tubacayir) | [research-data-collector-agent](https://github.com/tubacayir/research-data-collector-agent) | Python | [Growth Roadmap](https://github.com/tubacayir/research-data-collector-agent/issues/1)|
 | 4 | [Kadriye Işık](https://github.com/kadriyeisik) | [telecomops-ai-agent](https://github.com/kadriyeisik/telecomops-ai-agent) | Java (Spring Boot), React | [Growth Roadmap](https://github.com/kadriyeisik/telecomops-ai-agent/issues/1) |
 | 5 | [İrem Tuğba Sağsöz](https://github.com/iremsagsoz) | [ai-code-review-agent](https://github.com/iremsagsoz/ai-code-review-agent) | Python, FastAPI, Gemini | [Growth Roadmap](https://github.com/iremsagsoz/ai-code-review-agent/issues/1) |
 | 6 | [Cennet Akçakaya](https://github.com/Cennetaakcakaya) | [gunluk-asistan-chatbot](https://github.com/Cennetaakcakaya/gunluk-asistan-chatbot) | Python, Streamlit, Groq | [Growth Roadmap](https://github.com/Cennetaakcakaya/gunluk-asistan-chatbot/issues/1) |
@@ -73,9 +73,7 @@ Roadmap'ler tam olarak bu alışkanlıkları kazandırmak için yazıldı.
 
 ## Bu Repo Bir Şablondur
 
-Bu çalışmayı her yıl tekrarlayacağız. Bu repo — sunum, görevler, ödev akışı
-(fork → PR → merge), mentor review süreci ve bu README yapısıyla — sonraki
-yılların şablonu olarak kalacak.
+Bu repo — sunum, görevler, ödev akışı (fork → PR → merge), mentor review süreci ve bu README yapısıyla, şablonu olarak kalacak.
 
 İnsanlara ve gelişimlerine değer veriyoruz. Kariyerinin başındaki bir mühendisin
 ilk projesine gösterilen özen, yıllar sonra onun başkalarına göstereceği özene
