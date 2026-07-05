@@ -32,7 +32,7 @@ Liste paylaşım sırasına göredir — ilk paylaşan ilk sıradadır.
 | 16 | [Beyza Nur Tiril](https://github.com/beyzanurtiril) | [makeup-agent](https://github.com/beyzanurtiril/makeup-agent) | Python, Gemini API, Tavily | An agent that recommends cool-toned makeup products by category (lipstick, eyeshadow, concealer, etc.) using real-time web search. |
 | 17 | [Doğa İpek](https://github.com/dogaaipek) | [smart-study-planner-agent](https://github.com/dogaaipek/smart-study-planner-agent) | Python, Rule-based Agent, Optional LLM | A category-based study planner agent that detects missing inputs and generates personalized plans with mini quiz support. |
 | 18 | [Cansu Cebesoy](https://github.com/cansucebesoy)  | [customer-support-agent](https://github.com/cansucebesoy/customer-support-agent)| Java, Google Gemini API, Resend | A Java console application that analyzes and automatically classifies customer messages using Gemini AI, and sends a confirmation email to the customer via the Resend API. |
-| NULL | [Deniz Süren](https://github.com/denizsuren) | [seAI](https://github.com/denizsuren/seAI) | Python, Ollama, Qwen2.5-Coder | A local AI coding agent that takes your task, writes the code, saves it to a `.py` file, runs and tests it, and routes to a different model based on difficulty. |
+| 19 | [Deniz Süren](https://github.com/denizsuren) | [seAI](https://github.com/denizsuren/seAI) | Python, Ollama, Qwen2.5-Coder | A local AI coding agent that takes your task, writes the code, saves it to a `.py` file, runs and tests it, and routes to a different model based on difficulty. |
 ## Kendini Ekle
 
 Ödevini tamamladıysan listeye eklenmek için bir Pull Request aç:
