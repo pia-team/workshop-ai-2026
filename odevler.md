@@ -32,7 +32,12 @@ Liste paylaşım sırasına göredir — ilk paylaşan ilk sıradadır.
 | 16 | [Beyza Nur Tiril](https://github.com/beyzanurtiril) | [makeup-agent](https://github.com/beyzanurtiril/makeup-agent) | Python, Gemini API, Tavily | An agent that recommends cool-toned makeup products by category (lipstick, eyeshadow, concealer, etc.) using real-time web search. |
 | 17 | [Doğa İpek](https://github.com/dogaaipek) | [smart-study-planner-agent](https://github.com/dogaaipek/smart-study-planner-agent) | Python, Rule-based Agent, Optional LLM | A category-based study planner agent that detects missing inputs and generates personalized plans with mini quiz support. |
 | 18 | [Cansu Cebesoy](https://github.com/cansucebesoy)  | [customer-support-agent](https://github.com/cansucebesoy/customer-support-agent)| Java, Google Gemini API, Resend | A Java console application that analyzes and automatically classifies customer messages using Gemini AI, and sends a confirmation email to the customer via the Resend API. |
-| NULL | [Gülden Aydoğan](https://github.com/gulayd) | [privacy-aware-llm-agent](https://github.com/gulayd/privacy-aware-llm-agent) | Python, Streamlit, Groq API | Kullanıcı metinlerindeki hassas bilgileri analiz eden, risk seviyesini belirleyen ve anonimleştirilmiş güvenli metin önerisi sunan AI Agent. |
+| 19 | [Deniz Süren](https://github.com/denizsuren) | [seAI](https://github.com/denizsuren/seAI) | Python, Ollama, Qwen2.5-Coder | A local AI coding agent that takes your task, writes the code, saves it to a `.py` file, runs and tests it, and routes to a different model based on difficulty. |
+| 20 | [Ece Girtine](https://github.com/ecegirtine) | [job-application-agent](https://github.com/ecegirtine/job-application-agent) | Python, OpenAI Agents SDK | An LLM-based agent that analyzes a resume and job posting to generate a personalized application email draft and opens it in Gmail or Outlook without sending automatically. |
+| 21 | [Gülden Aydoğan](https://github.com/gulayd) | [privacy-aware-llm-agent](https://github.com/gulayd/privacy-aware-llm-agent) | Python, Streamlit, Groq API | Kullanıcı metinlerindeki hassas bilgileri analiz eden, risk seviyesini belirleyen ve anonimleştirilmiş güvenli metin önerisi sunan AI Agent. |
+
+
+
 
 ## Kendini Ekle
 
