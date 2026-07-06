@@ -3,10 +3,10 @@
 > Bir workshop'un gerçek çıktısı slaytlar değil, sonrasında üretilen projelerdir.
 
 Bu repo, PIA Team AI Coding Agents Workshop 2026'nın hem sunum materyalini hem de
-— çok daha önemlisi — **workshop sonrası ortaya çıkan 21 katılımcı projesini** barındırıyor.
+— çok daha önemlisi — **workshop sonrası ortaya çıkan 23 katılımcı projesini** barındırıyor.
 
 Workshop'un ödevi tek cümleydi: *"İstediğiniz dilde, LLM ile çalışabilen bir AI Agent geliştirin."*
-Sonuç: 21 katılımcı, 21 farklı problem, 21 çalışan repo. Telekom arıza teşhisinden
+Sonuç: 23 katılımcı, 23 farklı problem, 23 çalışan repo. Telekom arıza teşhisinden
 logoterapi sohbet arkadaşına, CSV analizinden makyaj önerisine kadar her proje agent
 mimarisine kendi penceresinden baktı. **Bu workshop amacına ulaştı.**
 
@@ -49,6 +49,8 @@ raporu değil, kişiye özel birer öğrenme yol haritası.
 | 19 | [Deniz Süren](https://github.com/denizsuren) | [seAI](https://github.com/denizsuren/seAI) | Python, Ollama, Qwen2.5-Coder | [Growth Roadmap](https://github.com/denizsuren/seAI/issues/1) |
 | 20 | [Ece Girtine](https://github.com/ecegirtine) | [job-application-agent](https://github.com/ecegirtine/job-application-agent) | Python, OpenAI Agents SDK | [Growth Roadmap](https://github.com/ecegirtine/job-application-agent/issues/1) |
 | 21 | [Gülden Aydoğan](https://github.com/gulayd) | [privacy-aware-llm-agent](https://github.com/gulayd/privacy-aware-llm-agent) | Python, Streamlit, Groq | [Growth Roadmap](https://github.com/gulayd/privacy-aware-llm-agent/issues/1) |
+| 22 | [Aleyna Gödek](https://github.com/aleynagodekk) | [HavaDurumuAgent](https://github.com/aleynagodekk/HavaDurumuAgent) | Python, LangChain, Ollama | [Growth Roadmap](https://github.com/aleynagodekk/HavaDurumuAgent/issues/1) |
+| 23 | [Damla Hilal Erden](https://github.com/Damla914) | [smart_file_agent](https://github.com/Damla914/smart_file_agent) | Python, smolagents | [Growth Roadmap](https://github.com/Damla914/smart_file_agent/issues/1) |
 
 Proje açıklamalarının tamamı [odevler.md](odevler.md) dosyasında.
 
