@@ -36,7 +36,7 @@ Liste paylaşım sırasına göredir — ilk paylaşan ilk sıradadır.
 | 20 | [Ece Girtine](https://github.com/ecegirtine) | [job-application-agent](https://github.com/ecegirtine/job-application-agent) | Python, OpenAI Agents SDK | An LLM-based agent that analyzes a resume and job posting to generate a personalized application email draft and opens it in Gmail or Outlook without sending automatically. |
 | 21 | [Gülden Aydoğan](https://github.com/gulayd) | [privacy-aware-llm-agent](https://github.com/gulayd/privacy-aware-llm-agent) | Python, Streamlit, Groq API | Kullanıcı metinlerindeki hassas bilgileri analiz eden, risk seviyesini belirleyen ve anonimleştirilmiş güvenli metin önerisi sunan AI Agent. |
 
-
+| NULL | [Damla Hilal Erden]((https://github.com/Damla914) | [smart_file_agent](https://github.com/Damla914/smart_file_agent)) | Python |A lightweight AI agent built with smolagents that can analyze text documents using multiple tools. |
 
 
 ## Kendini Ekle
